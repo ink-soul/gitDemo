@@ -1,2 +1,2 @@
-![](.\pictures\1.jpg)
+![](..\pictures\3.jpg)
 
